@@ -1,0 +1,7 @@
+{
+    "prettier.disableLanguages": [
+        "javasctipt",
+        "javascriptreact"
+    ],
+    "editor.formatOnSave": true
+}
